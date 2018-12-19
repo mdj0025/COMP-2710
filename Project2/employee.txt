@@ -1,0 +1,12 @@
+Employee1
+12345
+1
+abc0002
+myPassword
+1
+Employee2
+1234
+0
+Employee4
+password1
+0
